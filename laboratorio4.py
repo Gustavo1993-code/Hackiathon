@@ -1,4 +1,4 @@
-# Utilitario para cargar variables de entorno   hola
+# Utilitario para cargar variables de entorno  
 import os
 from dotenv import load_dotenv
 
